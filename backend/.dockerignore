@@ -1,0 +1,6 @@
+__pycache__
+chroma
+venv
+.gitignore
+uploaded_files
+.venv
